@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... WebDev
-- 📫 How to reach me ... 1523codes@gmail.com
+- 📫 How to reach me ... 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 
