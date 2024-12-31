@@ -18,8 +18,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![EclipseIDE](https://img.shields.io/badge/Editor-EclipseIDE-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
 
-![](https://komarev.com/ghpvc/?VA-run=your-github-VA-run&color=green)
-<!---
-23Palli/23Palli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=VA-run&color=green)
+
+
