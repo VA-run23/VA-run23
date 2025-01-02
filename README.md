@@ -20,7 +20,16 @@
 
 ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run&layout=compact&langs_count=8&theme=algolia)
+## GitHub Analytics
 
+![Total Stars](https://img.shields.io/badge/Total_Stars-412-2bbc8a?style=flat)
+![Total Commits](https://img.shields.io/badge/Total_Commits-6.8k-2bbc8a?style=flat)
+![Total PRs](https://img.shields.io/badge/Total_PRs-18-2bbc8a?style=flat)
+![Total Issues](https://img.shields.io/badge/Total_Issues-2-2bbc8a?style=flat)
+![Contributed to](https://img.shields.io/badge/Contributed_to-2-2bbc8a?style=flat)
+![Rating](https://img.shields.io/badge/Rating-A%2B%2B-2bbc8a?style=flat)
+
+### My Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_VA-run&layout=compact&langs_count=8&theme=algolia)
 
 
