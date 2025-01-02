@@ -85,13 +85,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe)
 
-<!-- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> -->
-<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VA-run23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-readme-stats.vercel.app/api?username=VA-run23&theme=radical&border=false&include_all_commits=true&count_private=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=radical&hide_border=false&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&dates=yellow&ring=yellow&fire=yellow)
+
+
+<!-- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> -->
+<br/>
+
 
 <!--START_SECTION:waka-->
 
