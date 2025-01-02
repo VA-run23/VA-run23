@@ -86,10 +86,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" /></p>
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=radical&hide_border=false&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&dates=yellow&ring=yellow&fire=yellow)
+
+
 
 
 <!-- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> -->
