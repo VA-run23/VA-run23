@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VA-Run
+<h1 align="center">Namaste , I am VA-run</h1>
+
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... WebDev
@@ -7,14 +8,7 @@
 - ⚡ Fun fact: ...
 - ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
-## Technologies and Tools
-
-
-
-<!--Make changes from below-->
-    
-    
-
+## Technologies and Tools    
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -83,12 +77,10 @@
 </p>
 
 # 📊 GitHub Stats:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;">
-</div>
+
 
 
 
