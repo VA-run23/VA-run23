@@ -30,6 +30,6 @@
 ![Rating](https://img.shields.io/badge/Rating-A%2B%2B-2bbc8a?style=flat)
 
 ### My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_VA-run&layout=compact&langs_count=8&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run&layout=compact&langs_count=8&theme=algolia)
 
 
