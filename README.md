@@ -20,4 +20,42 @@
 
 ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats</title>
+</head>
+<body>
+    <h1>GitHub Analytics</h1>
+
+    <div id="stats"></div>
+
+    <script>
+        async function fetchGitHubStats() {
+            const response = await fetch('https://api.github.com/users/YOUR_USERNAME/repos');
+            const repos = await response.json();
+            const totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+            const totalCommits = repos.reduce((sum, repo) => sum + repo.commits_url.split('/').length, 0);
+            const totalPRs = repos.reduce((sum, repo) => sum + repo.pulls_url.split('/').length, 0);
+            const totalIssues = repos.reduce((sum, repo) => sum + repo.issues_url.split('/').length, 0);
+
+            document.getElementById('stats').innerHTML = `
+                <h2>My GitHub Statistics</h2>
+                <ul>
+                    <li><strong>Total Stars:</strong> ${totalStars}</li>
+                    <li><strong>Total Commits:</strong> ${totalCommits}</li>
+                    <li><strong>Total PRs:</strong> ${totalPRs}</li>
+                    <li><strong>Total Issues:</strong> ${totalIssues}</li>
+                </ul>
+            `;
+        }
+
+        fetchGitHubStats();
+    </script>
+</body>
+</html>
+
+
 
