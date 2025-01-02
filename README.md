@@ -83,12 +83,12 @@
 </p>
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" /></p>
-
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;">
+</div>
 
 
 
