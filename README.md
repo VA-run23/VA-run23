@@ -83,9 +83,10 @@
 </p>
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true)
+
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=radical&hide_border=false&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&dates=yellow&ring=yellow&fire=yellow)
