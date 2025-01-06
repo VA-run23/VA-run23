@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Namaste , I am VA-run</h1>
+<h1 align="center"> 🙏 Namaste , I am VA-run</h1>
 
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
 - 🌱 I’m currently learning ... Data Structures and Algorithms
