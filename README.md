@@ -1,3 +1,7 @@
+<!--<h1 align="center"> <img src="https://static.vecteezy.com/system/resources/previews/027/372/685/non_2x/prayer-namaste-hand-emoji-sticker-icon-vector.jpg" alt="Namaste Emoji" width="28" height="28">  Namaste , I am VA-run</h1>-->
+
+
+
 <h1 align="center">Namaste , I am VA-run</h1>
 
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
