@@ -12,6 +12,13 @@
 - ⚡ Fun fact: ...
 - ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
+
+
+<hr>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="VA-run23" /></p>
+ 
+<hr>
+
 ## Technologies and Tools    
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
