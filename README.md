@@ -5,11 +5,11 @@
 <h1 align="center"> 🙏 Namaste , I am VA-run</h1>
 
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
-- 🌱 I’m currently learning ... Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ... WebDev
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... Data Structures and Algorithms, DevOps.
+<!--- 💞️ I’m looking to collaborate on ... WebDev
+- 📫 How to reach me ... -->
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I tackled JEE Mains solo and made it to NIT, but life had other plans and I ended up at NIE.
 - ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
 
