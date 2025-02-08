@@ -16,6 +16,11 @@
 
 <hr>
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="VA-run23" /></p>
+
+
+<!--![LeetCode Progress](https://raw.githubusercontent.com/GF/your_repository/main/leetcode_progress.png)-->
+
+
  
 <hr>
 
@@ -90,8 +95,8 @@
 # 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;">
--->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;">
+
 <!-- # 🔥 GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VA-run23&theme=dark" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; margin: 10px;">
