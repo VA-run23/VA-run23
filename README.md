@@ -17,6 +17,8 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="VA-run23" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/VA-run23?theme=catppuccinMocha&font=Cousine&ext=contest)
+
 
 <!--![LeetCode Progress](https://raw.githubusercontent.com/GF/your_repository/main/leetcode_progress.png)-->
 
