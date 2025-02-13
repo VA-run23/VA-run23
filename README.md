@@ -22,7 +22,16 @@
 
 <!--![LeetCode Progress](https://raw.githubusercontent.com/GF/your_repository/main/leetcode_progress.png)-->
 
+<!--
+### ⁍ 𝐇𝐨𝐰 𝐟𝐚𝐬𝐭 𝐜𝐚𝐧 𝐈 𝐭𝐲𝐩𝐞?:
 
+![image](https://github.com/shreyaschavhan/shreyaschavhan/assets/68887544/ee23a5f9-0c0c-474f-9832-9309efa2d515)
+
+- My MonkeyType Profile:
+```
+https://monkeytype.com/profile/VAPRA
+```
+-->
  
 <hr>
 
