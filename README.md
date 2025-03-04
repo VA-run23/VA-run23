@@ -9,7 +9,8 @@
 <!--- 💞️ I’m looking to collaborate on ... WebDev
 - 📫 How to reach me ... -->
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: I tackled JEE Mains solo and made it to NIT, but life had other plans and I ended up somewhere.
+- ⚡ Fun fact: Many WebDev projects get struck at 75%! 💻🔧
+
 - ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
 
 
