@@ -119,7 +119,7 @@ https://monkeytype.com/profile/VAPRA
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;"> -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=sunset-gradient&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 <!-- # 🔥 GitHub Streak:
