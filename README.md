@@ -3,6 +3,8 @@
 
 
 <h1 align="center"> 🙏 Namaste , I am VA-run</h1>
+<h2 align = "Center">उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः।</h2>
+<h1 align = "Center">Efforts alone accomplish tasks, not mere desires.</h1>
 
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
 - 🌱 I’m currently learning ... Data Structures and Algorithms, DevOps and cloud computing.
