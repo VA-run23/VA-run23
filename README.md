@@ -5,13 +5,13 @@
 <h1 align="center"> 🙏 Namaste , I am VA-run</h1>
 
 - 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
-- 🌱 I’m currently learning ... Data Structures and Algorithms, DevOps.
+- 🌱 I’m currently learning ... Data Structures and Algorithms, DevOps and cloud computing.
 <!--- 💞️ I’m looking to collaborate on ... WebDev
 - 📫 How to reach me ... -->
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: Many WebDev projects get struck at 75%! 💻🔧
+- ⚡ Fun Fact: Did you know? The full form of GNU is "GNU's Not Unix"—a clever, self-referential acronym that highlights the playful side of tech while standing for free software innovation!
 
-- ![](https://komarev.com/ghpvc/?username=VA-run&color=green)
+- ![](https://komarev.com/ghpvc/?username=VA-run&color=blue)
 
 
 
