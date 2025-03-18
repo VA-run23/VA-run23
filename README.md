@@ -117,14 +117,14 @@ https://monkeytype.com/profile/VAPRA
 </p>
 
 # 📊 GitHub Stats:
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VA-run23&theme=dark" alt="VA-run23" style="max-width: 100%; height: auto; margin: 10px;"> -->
-<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto; margin: 10px;">
   </a>
 </div>
+
 <!-- # 🔥 GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VA-run23&theme=dark" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; margin: 10px;">
