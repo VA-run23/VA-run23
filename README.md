@@ -1,51 +1,19 @@
-<!--<h1 align="center"> <img src="https://static.vecteezy.com/system/resources/previews/027/372/685/non_2x/prayer-namaste-hand-emoji-sticker-icon-vector.jpg" alt="Namaste Emoji" width="28" height="28">  Namaste , I am VA-run</h1>-->
-
-
-
 <h1 align="center"> 🙏 Namaste , I am VA-run</h1>
-<h2 align = "Center">उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः।</h2>
-<h1 align = "Center">Efforts alone accomplish tasks, not mere desires.</h1>
+<h2 align="center">उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः।</h2>
+<h1 align="center">Efforts alone accomplish tasks, not mere desires.</h1>
 
-- 👀 I’m interested in ...Problem solving, WebDev, DevOps, CloudComputing, Docker and Kubernetes
-- 🌱 I’m currently learning ... Data Structures and Algorithms, DevOps and cloud computing.
-<!--- 💞️ I’m looking to collaborate on ... WebDev
-- 📫 How to reach me ... -->
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun Fact: Did you know? The full form of GNU is "GNU's Not Unix"—a clever, self-referential acronym that highlights the playful side of tech while standing for free software innovation!
+- 👀 I’m interested in Problem solving, WebDev, DevOps, Cloud Computing, Docker, and Kubernetes
+- 🌱 I’m currently learning Data Structures and Algorithms, DevOps, and Cloud Computing.
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: The full form of GNU is "GNU's Not Unix"—a clever, self-referential acronym that highlights the playful side of tech while standing for free software innovation!
 
-- ![](https://komarev.com/ghpvc/?username=VA-run&color=blue)
-
-
+![](https://komarev.com/ghpvc/?username=VA-run&color=blue)
 
 <hr>
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="VA-run23" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VA-run23?theme=catppuccinMocha&font=Cousine&ext=contest)
-<td>
-<!--       <a href="https://leetcode.com/VA-run23/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a> -->
-<!--   <td>
-      <a href="https://leetcode.com/VA-run23/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="leet50" height="100" width="100" /></a>
-</td> -->
 
-<!--       <a href="https://leetcode.com/VA-run23/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="knight" height="100" width="100" /></a> -->
-<!--       <a href="https://leetcode.com/VA-run23/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" alt="guardian" height="100" width="100" /></a> -->
-</td>
-
-
-
-<!--![LeetCode Progress](https://raw.githubusercontent.com/GF/your_repository/main/leetcode_progress.png)-->
-
-<!--
-### ⁍ 𝐇𝐨𝐰 𝐟𝐚𝐬𝐭 𝐜𝐚𝐧 𝐈 𝐭𝐲𝐩𝐞?:
-
-![image](https://github.com/shreyaschavhan/shreyaschavhan/assets/68887544/ee23a5f9-0c0c-474f-9832-9309efa2d515)
-
-- My MonkeyType Profile:
-```
-https://monkeytype.com/profile/VAPRA
-```
--->
- 
 <hr>
 
 ## Technologies and Tools    
@@ -83,34 +51,6 @@ https://monkeytype.com/profile/VAPRA
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> -->
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>&nbsp;&nbsp;
@@ -124,16 +64,3 @@ https://monkeytype.com/profile/VAPRA
     <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto; margin: 10px;">
   </a>
 </div>
-
-<!-- # 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VA-run23&theme=dark" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; margin: 10px;">
-</p> -->
-
-
-<!-- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> -->
-<br/>
-
-
-<!--START_SECTION:waka-->
-
