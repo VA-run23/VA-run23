@@ -1,66 +1,90 @@
-<h1 align="center"> 🙏 Namaste , I am VA-run</h1>
-<h2 align="center">उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः।</h2>
-<h1 align="center">Efforts alone accomplish tasks, not mere desires.</h1>
+<h1 align="center">Namaste 🙏, I am Varun | Software Developer & DevOps Enthusiast</h1>
 
-- 👀 I’m interested in Problem solving, WebDev, DevOps, Cloud Computing, Docker, and Kubernetes
-- 🌱 I’m currently learning Data Structures and Algorithms, DevOps, and Cloud Computing.
-- 😄 Pronouns: He/Him
-- ⚡ Fun Fact: The full form of GNU is "GNU's Not Unix"—a clever, self-referential acronym that highlights the playful side of tech while standing for free software innovation!
-
-![](https://komarev.com/ghpvc/?username=VA-run&color=blue)
-
-<hr>
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="VA-run23" /></p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/VA-run23?theme=catppuccinMocha&font=Cousine&ext=contest)
-
-<hr>
-
-## Technologies and Tools    
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VA-run&color=0e75b6" alt="Profile Views" />
 </p>
 
-# 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=dark&show_icons=true" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 10px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto; margin: 10px;">
-  </a>
+<h3 align="center"><em>"उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः" — Success comes through effort, not mere desire.</em></h3>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate developer focused on building robust solutions through modern technologies. My expertise spans web development, cloud computing, and DevOps practices, with a continuous learning approach to staying current with industry trends.
+
+- 🔭 Currently improving my skills in **Data Structures & Algorithms**
+- 🌱 Exploring **DevOps practices** and **Cloud Computing** technologies
+- 👯 Looking to collaborate on **open-source projects** in web development and cloud infrastructure
+- 💬 Let's discuss: **Problem Solving, WebDev, DevOps, Docker, and Kubernetes**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun Fact: The name "GNU" is a recursive acronym standing for "GNU's Not Unix" — exemplifying the creative, self-referential nature of programming culture!
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" width="60%" />
+</div>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
+</p>
