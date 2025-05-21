@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=VA-run&color=0e75b6" alt="Profile Views" />
 </p>
 
-<h3 align="center"><em>"उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः" — Success comes through effort, not mere desire.</em></h3>
+<h3 align="center"><em>"उद्यमेन् हि सिद्ध्यन्ति कार्याणि न मनोरथैः" — Success is achieved through effort, not by mere wishes.</em></h3>
 
 ---
 
