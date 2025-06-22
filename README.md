@@ -84,6 +84,8 @@ I'm a passionate developer focused on building robust solutions through modern t
 </p>
 
 ---
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <p align="center">
   <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
