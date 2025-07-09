@@ -1,4 +1,15 @@
-<h1 align="center">Namaste 🙏, I am Varun | Software Developer & DevOps Enthusiast</h1>
+
+
+
+
+
+
+
+
+
+<h1 align="center">Namaste   <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f64f.png"
+       alt="folded hands emoji"
+       width="28" height="28">, I am Varun | Software Developer & DevOps Enthusiast</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VA-run&color=0e75b6" alt="Profile Views" />
