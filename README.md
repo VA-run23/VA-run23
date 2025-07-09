@@ -85,6 +85,27 @@ I'm a passionate developer focused on building robust solutions through modern t
   </tr>
 </table>
 
+<div
+  align="center"
+  style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;"
+>
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    alt="GitHub Contributor Stats"
+    style="width: 300px; height: 180px; object-fit: contain;"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Productive Time"
+    style="width: 300px; height: 180px; object-fit: contain;"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Profile Details"
+    style="width: 300px; height: 180px; object-fit: contain;"
+  />
+</div>
+
 
 
 
@@ -106,7 +127,9 @@ I'm a passionate developer focused on building robust solutions through modern t
 </p>
 
 ---
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 
 <p align="center">
