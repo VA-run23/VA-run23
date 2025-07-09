@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <h1 align="center">Namaste   <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f64f.png"
        alt="folded hands emoji"
        width="28" height="28">, I am Varun | Software Developer & DevOps Enthusiast</h1>
@@ -68,15 +59,35 @@ I'm a passionate developer focused on building robust solutions through modern t
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=github_dark&hide_border=true"
+        alt="Top Languages"
+        width="300px"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true"
+        alt="GitHub Streak"
+        width="300px"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=github_dark&show_icons=true&hide_border=true&count_private=true"
+        alt="GitHub Stats"
+        width="300px"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
-</div>
+
+
+
 
 ---
 
