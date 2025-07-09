@@ -94,7 +94,7 @@ I'm a passionate developer focused on building robust solutions through modern t
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" width=""300px height="300px" />
 </div>
 
 ---
