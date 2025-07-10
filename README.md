@@ -105,3 +105,6 @@ I'm a passionate developer focused on building robust solutions through modern t
 <p align="center">
   <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
 </p>
+
+
+[![wakatime](https://wakatime.com/badge/user/7f38ef2b-a532-4b07-a797-7e2c6b75355c.svg)](https://wakatime.com/@7f38ef2b-a532-4b07-a797-7e2c6b75355c)
