@@ -56,29 +56,27 @@ I'm a passionate developer focused on building robust solutions through modern t
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; gap: 1.2rem; align-items: center;">
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 1rem;">
+  <!-- Row 1: Two side-by-side -->
+  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 340px; height: 180px; object-fit: contain;" />
-    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" style="width: 340px; height: 180px; object-fit: contain;" />
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 340px; height: 180px; object-fit: contain;" />
+  </div>
+
+  <!-- Row 2: Two side-by-side -->
+  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
     <img src="https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 340px; height: 180px; object-fit: contain;" />
-  </div>
-
-  <!-- Row 3 -->
-  <div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Productive Time" style="width: 340px; height: 180px; object-fit: contain;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Profile Details" style="width: 340px; height: 180px; object-fit: contain;" />
   </div>
-</div>
 
+  <!-- Row 3: Full width -->
+  <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" style="width: 98%; height: auto; object-fit: contain;" />
+
+  <!-- Row 4: Full width -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Profile Details" style="width: 98%; height: auto; object-fit: contain;" />
+</div>
 
 ---
 
