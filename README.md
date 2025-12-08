@@ -59,14 +59,10 @@ I'm a passionate developer focused on building robust solutions through modern t
 
 ## 📈 Performance Stats
 
-<div align="center" style="display: flex; flex-direction: column; gap: 1.2rem; align-items: center;">
- 
- <!-- Row 1: Two side-by-side with consistent width -->
- <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VA-run23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 49%; height: 200px; object-fit: contain;" />
-   <img src="https://github-readme-stats.vercel.app/api?username=VA-run23&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 49%; height: 200px; object-fit: contain;" />
- </div>
- 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VA-run23&theme=github_dark" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VA-run23&theme=github_dark" alt="Stats" height="180"/>
+</div>
  <!-- Row 2: Two side-by-side with consistent width -->
  <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
    <img src="https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 49%; height: 200px; object-fit: contain;" />
