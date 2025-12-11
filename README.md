@@ -58,11 +58,13 @@ I'm a passionate developer focused on building robust solutions through modern t
 ---
 
 ## 📈 Performance Stats
+<!-- ROW 1 -->
+<p align="center">
+  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=VA-run23&show_icons=true&count_private=true&theme=github_dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff" height="200px"/>
+  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=VA-run23&layout=compact&langs_count=8&theme=github_dark&title_color=00bfff&text_color=ffffff" height="200px"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VA-run23&theme=github_dark" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VA-run23&theme=github_dark" alt="Stats" height="180"/>
-</div>
+
  <!-- Row 2: Two side-by-side with consistent width -->
  <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
    <img src="https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 49%; height: 200px; object-fit: contain;" />
