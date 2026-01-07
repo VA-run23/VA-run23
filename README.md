@@ -65,12 +65,7 @@ I'm a passionate developer focused on building robust solutions through modern t
 </p>
 
 
- <!-- Row 2: Two side-by-side with consistent width -->
- <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
-   <img src="https://github-contributor-stats.vercel.app/api?username=VA-run23&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 49%; height: 200px; object-fit: contain;" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Productive Time" style="width: 49%; height: 200px; object-fit: contain;" />
- </div>
- 
+  
  <!-- Row 3: Two side-by-side, same width as above -->
  <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" style="width: 49%; height: 220px; object-fit: contain;" />
@@ -83,9 +78,7 @@ I'm a passionate developer focused on building robust solutions through modern t
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VA-run23&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="98%" />
-</p>
+
 
 ---
 
