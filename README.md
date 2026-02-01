@@ -58,35 +58,38 @@ I'm a passionate developer focused on building robust solutions through modern t
 ---
 
 ## 📈 Performance Stats
-<!-- ROW 1 -->
-<p align="center">
-  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=VA-run23&show_icons=true&count_private=true&theme=github_dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff" height="200px"/>
-  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=VA-run23&layout=compact&langs_count=8&theme=github_dark&title_color=00bfff&text_color=ffffff" height="200px"/>
-</p>
 
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-six-seven.vercel.app/api?username=VA-run23&show_icons=true&count_private=true&theme=github_dark&title_color=00bfff&icon_color=00bfff&text_color=ffffff" height="200px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=VA-run23&layout=compact&langs_count=8&theme=github_dark&title_color=00bfff&text_color=ffffff" height="200px"/>
+    </td>
+  </tr>
   
- <!-- Row 3: Two side-by-side, same width as above -->
- <div style="display: flex; justify-content: center; gap: 1rem; width: 100%;">
-   <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" style="width: 49%; height: 220px; object-fit: contain;" />
-   <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" style="width: 49%; height: 220px; object-fit: contain;" />
- </div>
- 
- <!-- Row 4: Full width -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Profile Details" style="width: 98%; height: auto; object-fit: contain;" />
- 
-</div>
-
-
-
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="220px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VA-run23&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Profile Details" height="220px"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" height="220px"/>
+    </td>
+    <td align="center">
+      <img src="https://gfgstatscard.vercel.app/neurovarun23" alt="GFG stats" height="220px"/>
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-
-
 
 <p align="center">
   <strong>Thanks for visiting my profile! Let's build something amazing together.</strong>
 </p>
-
