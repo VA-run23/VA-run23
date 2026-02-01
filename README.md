@@ -88,6 +88,15 @@ I'm a passionate developer focused on building robust solutions through modern t
   </tr>
 </table>
 
+
+<p align="center">
+  <a href="https://leetcode.com/VA-run23" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/neurovarun23" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
