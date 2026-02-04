@@ -32,40 +32,37 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-F7DF1E?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-FFA500?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-
 
 ### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-61DAFB?style=for-the-badge&logo=redux&logoColor=black" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-007BFF?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-007BFF?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-007BFF?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-007BFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
-
 
 ### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Socket.io-339933?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Socket.io-FFFFFF?style=for-the-badge&logo=socket.io&logoColor=black" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
 </p>
 
 ### Tools & Testing
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jest-F05032?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-28A745?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-28A745?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-28A745?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Linux-28A745?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
-
 
 ---
 
@@ -113,7 +110,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 #### ⚖️ Digital Constitutional Amendment — Civic Tech Solution| [Link](https://d-05-minor-project.netlify.app/) | Private Repo
 **Role:** DevOps & Full-Stack Developer | *Sep 2025 – Dec 2025*
-> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+> <img src="https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-FFA500?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=postman&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-28A745?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-28A745?style=for-the-badge&logo=jest&logoColor=white" />
 
 * **Resilience:** Designed an event-driven microservices system featuring a Circuit Breaker for a fault-tolerant legal assistant.
 * **Data Integrity:** Prevented race conditions during high-concurrency voting through Optimistic Locking and connection pooling.
