@@ -1,4 +1,4 @@
-<h1 align="center">Namaste <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f64f.png" alt="folded hands emoji" width="28" height="28">, I am Varun</h1>
+<h1 align="center">Namaste <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f64f.png" alt="folded hands emoji" width="28" height="28">, I am Varun D Magar</h1>
 <h3 align="center">Software Developer & DevOps Enthusiast</h3>
 
 <p align="center">
