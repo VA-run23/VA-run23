@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/va-run23" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://varun-in.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<a href="https://varun-in.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
