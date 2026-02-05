@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 The Engineering Architect (INTJ-T)
+## 👨‍💻 The Engineering Architect (INTJ-T)
 
 I am a Full-Stack MERN Engineer who approaches software development with strategic precision. As an INTJ-T (Architect), I am naturally driven to improve complex systems through logic, strict architectural patterns, and a relentless pursuit of efficiency.
 
@@ -28,7 +28,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### Languages
 <p>
@@ -66,7 +66,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -98,26 +98,38 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ---
 
-### 🏗️ Featured Engineering Projects
+# 🏗️ Featured Engineering Projects
 
-#### 📝 VSKript — Enterprise Blogging Platform | [Live](https://vskript.netlify.app) | 🔒 Private Repository
+<br/>
+
+## 📝 **VSKript — Enterprise Blogging Platform**
+#### [Live Demo](https://vskript.netlify.app) | 🔒 Private Repository
 **Role:** Lead Full-Stack Developer | *Dec 2025 – Jan 2026*
+
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
 * **Architectural Strategy:** Implemented CQRS and Factory/Strategy patterns to manage complex multi-auth and dynamic content posting.
 * **Security & Performance:** Engineered defense-in-depth with JWT httpOnly cookies, RBAC, and Token Bucket rate limiting, achieving **sub-200ms responses**.
 * **Efficiency:** Optimized delivery using Redux Toolkit, resulting in a **40% bundle size reduction**.
 
-#### ⚖️ Digital Constitutional Amendment — Civic Tech Solution| [Link](https://d-05-minor-project.netlify.app/) | Private Repo
+---
+
+## ⚖️ **Digital Constitutional Amendment — Civic Tech**
+#### [Live Link](https://d-05-minor-project.netlify.app/) | 🔒 Private Repository
 **Role:** DevOps & Full-Stack Developer | *Sep 2025 – Dec 2025*
-> <img src="https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-FFA500?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=postman&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-28A745?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-28A745?style=for-the-badge&logo=jest&logoColor=white" />
+
+> <img src="https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-FFA500?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-28A745?style=for-the-badge&logo=docker&logoColor=white" />
 
 * **Resilience:** Designed an event-driven microservices system featuring a Circuit Breaker for a fault-tolerant legal assistant.
 * **Data Integrity:** Prevented race conditions during high-concurrency voting through Optimistic Locking and connection pooling.
 * **Reliability:** Ensured system robustness with **>85% TDD coverage** via Jest.
 
-#### 🫀 VOrgans — Organ Donation Management | [Link](https://github.com/VA-run23/OrganDonation-DatabaseProject) 
+---
+
+## 🫀 **VOrgans — Organ Donation Management**
+#### [Source Code](https://github.com/VA-run23/OrganDonation-DatabaseProject)
 **Role:** Backend Developer | *Apr 2025 – May 2025*
+
 > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
 
 * **Logic Automation:** Engineered normalized MySQL schemas with complex triggers and stored procedures for automated donor-recipient matching.
@@ -125,7 +137,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ---
 
-### 🏅 Certifications & Achievements
+## 🏅 Certifications & Achievements
 
 **Certifications**
 * 🏅 **IBM Certified - DevOps and Software Engineering** | [Link](https://www.coursera.org/account/accomplishments/professional-cert/79ACEP9QOPAG)
