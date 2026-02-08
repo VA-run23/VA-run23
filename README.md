@@ -79,7 +79,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
   </tr>
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" height="220px"/>
+      <img src="https://leetcard.jacoblin.cool/VA-run23?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" height="220px"/>
     </td>
     <td align="center">
       <img src="https://gfgstatscard.vercel.app/neurovarun23" alt="GFG stats" height="220px"/>
