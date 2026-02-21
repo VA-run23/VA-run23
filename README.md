@@ -17,6 +17,11 @@
 <h3 align="center"><em>"उद्यमेन हि सिद्ध्यन्ति कार्याणि न मनोरथैः" — Success is achieved through effort, not by mere wishes.</em></h3>
 
 ---
+<p align="center">
+<img src="https://streak-card23.vercel.app/api/streak-card?platforms=%5B%7B%22platform%22%3A%22github%22%2C%22username%22%3A%22va-run23%22%2C%22streak%22%3A420%2C%22source%22%3A%22api%22%7D%2C%7B%22platform%22%3A%22gfg%22%2C%22username%22%3A%22neurovarun23%22%2C%22streak%22%3A413%2C%22source%22%3A%22api%22%7D%5D&name=My%20streaks&greeting=&color=%232C3E50" alt="Coding Streaks" />
+</p>
+
+---
 
 ## 👨‍💻 The Engineering Architect (INTJ-T)
 
