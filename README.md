@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-<img src="https://streak-card23.vercel.app/api/streak-card?platforms=%5B%7B%22platform%22%3A%22github%22%2C%22username%22%3A%22va-run23%22%2C%22streak%22%3A420%2C%22source%22%3A%22api%22%7D%2C%7B%22platform%22%3A%22gfg%22%2C%22username%22%3A%22neurovarun23%22%2C%22streak%22%3A413%2C%22source%22%3A%22api%22%7D%5D&name=My%20streaks&greeting=&color=%232C3E50" alt="Coding Streaks" />
+<img src="https://streak-card23.vercel.app/api/streak-card?platforms=%5B%7B%22platform%22%3A%22github%22%2C%22username%22%3A%22va-run23%22%7D%2C%7B%22platform%22%3A%22gfg%22%2C%22username%22%3A%22neurovarun23%22%7D%5D&name=My%20Streaks&greeting=&color=%231A1A2E" alt="Coding Streaks" />
 </p>
 
 ---
