@@ -17,19 +17,20 @@
 <h3 align="center"><em>"उद्यमेन हि सिद्ध्यन्ति कार्याणि न मनोरथैः" — Success is achieved through effort, not by mere wishes.</em></h3>
 
 ---
-<p align="center">
-<img src="https://streak-card23.vercel.app/api/streak-card?platforms=%5B%7B%22platform%22%3A%22github%22%2C%22username%22%3A%22va-run23%22%7D%2C%7B%22platform%22%3A%22gfg%22%2C%22username%22%3A%22neurovarun23%22%7D%2C%7B%22platform%22%3A%22leetcode%22%2C%22username%22%3A%22va-run23%22%7D%5D&name=My%20Streaks%20&greeting=&color=%231A1A2E" alt="Coding Streaks" />
-</p>
 
----
-
-## 👨‍💻 The Engineering Architect (INTJ-T)
+## The Engineering Architect (INTJ-T)
 
 I am a Full-Stack MERN Engineer who approaches software development with strategic precision. As an INTJ-T (Architect), I am naturally driven to improve complex systems through logic, strict architectural patterns, and a relentless pursuit of efficiency.
 
 * **Strategic Vision:** I design long-term architectural solutions focusing on sub-200ms API latency.
 * **Rational Problem-Solving:** I thrive on solving complex puzzles with a commitment to high-performance, secure code.
 * **Independent Drive:** High-autonomy engineer with a 400+ day streak, balanced by a commitment to architectural standards and system documentation.
+
+---
+
+<p align="center">
+<img src="https://streak-card23.vercel.app/api/streak-card?platforms=%5B%7B%22platform%22%3A%22github%22%2C%22username%22%3A%22va-run23%22%7D%2C%7B%22platform%22%3A%22gfg%22%2C%22username%22%3A%22neurovarun23%22%7D%2C%7B%22platform%22%3A%22leetcode%22%2C%22username%22%3A%22va-run23%22%7D%5D&name=My%20Streaks%20&greeting=&color=%231A1A2E" alt="Coding Streaks" />
+</p>
 
 ---
 
