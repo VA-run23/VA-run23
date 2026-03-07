@@ -110,7 +110,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 ## 📝 **VSKript — Enterprise Blogging Platform**
 #### [Live Demo](https://vskript.netlify.app) | 🔒 Private Repository
-**Role:** Lead Full-Stack Developer | *Dec 2025 – Jan 2026*
+**Role:** Lead Full-Stack Developer | *Dec 2025 – Mar 2026*
 
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
@@ -140,6 +140,32 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 * **Logic Automation:** Engineered normalized MySQL schemas with complex triggers and stored procedures for automated donor-recipient matching.
 * **Real-time Integration:** Developed 15+ REST APIs and integrated Socket.IO for critical medical update notifications.
+
+---
+
+## 🔧 Side Projects
+
+## 🧠 **ABOVE_INFLUENCE — YouTube Consumption Analysis**
+#### [Live App](https://above-influence.vercel.app/) | [Source Code](https://github.com/VA-run23/Above_Influence)
+**Role:** Workflow Automation Engineer (n8n) | *Feb 2026*
+
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+* **Workflow Automation:** Designed the complete n8n pipeline that handles YouTube data fetching, processing, and routing to the AI analysis step.
+* **AI Integration:** Connected Google Gemini AI to generate personalized insights, with a fallback model in case of rate limits or failures.
+* **Email Delivery:** Set up Gmail API integration so users receive their analysis report directly in their inbox after processing.
+
+---
+
+## 🃏 **Streak Card 23 — Unified Coding Activity Card**
+#### [Live App](https://streak-card23.vercel.app/) | [Source Code](https://github.com/VA-run23/streak-card23)
+**Role:** Solo Developer | *Weekend Project*
+
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+* **Live Data:** Fetches real streak data from GitHub, LeetCode, and GeeksforGeeks on each request so the card is always up to date.
+* **Customizable:** Offers multiple color themes so developers can match the card to their GitHub profile or personal style.
+* **Embeddable:** Generates a ready-to-use embed snippet for GitHub READMEs and personal websites.
 
 ---
 
