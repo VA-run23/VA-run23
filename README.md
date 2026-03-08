@@ -27,7 +27,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 
 * **Strategic Vision:** I design long-term architectural solutions focusing on sub-200ms API latency.
 * **Rational Problem-Solving:** I thrive on solving complex puzzles with a commitment to high-performance, secure code.
-* **Independent Drive:** High-autonomy engineer with a 400+ day streak, balanced by a commitment to architectural standards and system documentation.
+* **Independent Drive:** Maintained a 400+ day coding streak while consistently contributing to team projects, driven by a commitment to architectural standards and continuous growth.
 
 ---
 
@@ -142,7 +142,7 @@ I am a Full-Stack MERN Engineer who approaches software development with strateg
 > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
 
 * **Logic Automation:** Engineered normalized MySQL schemas with complex triggers and stored procedures for automated donor-recipient matching.
-* **Real-time Integration:** Developed 15+ REST APIs and integrated Socket.IO for critical medical update notifications.
+* **Real-time Integration:** Developed 15+ APIs and integrated Socket.IO for critical medical update notifications.
 
 ---
 
