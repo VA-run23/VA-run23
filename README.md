@@ -11,7 +11,7 @@
   <a href="https://drive.google.com/file/d/1BBMopbBklnRMjz2d1-31ze-6pDSzri5m/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-</p>>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VA-run&color=0e75b6" alt="Profile Views" />
