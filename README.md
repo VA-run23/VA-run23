@@ -105,7 +105,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * **Email Delivery:** Integrated Gmail API for automated report delivery directly to user inbox.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b952e40b-75e8-4f72-b041-aef90b2059a8" alt="Above Influence n8n Workflow" width="800"/>
+  <img src="https://github.com/user-attachments/assets/b952e40b-75e8-4f72-b041-aef90b2059a8" alt="Above Influence n8n Workflow" width="400"/>
   <br/>
   <em>n8n Workflow Architecture</em>
 </p>
@@ -126,7 +126,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * **Impact:** 100+ cards generated, enabling developers to showcase unified coding activity.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b8dadbc-bdf1-42d3-90b2-c0b5d6d50c37" alt="Streak Card Dashboard" width="800"/>
+  <img src="https://github.com/user-attachments/assets/4b8dadbc-bdf1-42d3-90b2-c0b5d6d50c37" alt="Streak Card Dashboard" width="400"/>
   <br/>
   <em>Streak Card Generator Dashboard</em>
 </p>
