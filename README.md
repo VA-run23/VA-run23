@@ -17,8 +17,8 @@
 
 ## Professional Summary
 
-* **LeetCode Knight** | Peak Rating: 2090 | 500+ Day Coding Streak
-* **Bronze Medal** | Innovista 2.0 Hackathon (3rd/50+ teams)
+* **LeetCode Knight** | Peak Rating: 2102 | 500+ Day Coding Streak | 1000+ Day Chess Streak
+* **2nd Runner-Up** | IoT Project Expo 2026, IIC-AICTE | **Bronze Medal** | Innovista 2.0 (3rd/50+ teams)
 * **Technical Writer** | Publishing on self-built VSKript platform
 * **Active Maintainer** | 3 production applications with ongoing feature development
 
@@ -30,7 +30,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 
 * **Performance-Driven Architecture:** Designed APIs with optimized response times through cursor pagination, connection pooling, and strategic caching.
 * **Security by Design:** Implemented defense-in-depth strategies across 3 production applications using JWT, RBAC, rate limiting, and XSS prevention.
-* **Relentless Consistency:** Maintained a 500+ day coding streak while shipping production features—proving that disciplined iteration compounds into mastery.
+* **Relentless Consistency:** Maintained a 500+ day coding streak while shipping production features across 3 deployed applications.
 
 **Current Focus:** Containerization (Docker), AWS cloud architecture, and microservices patterns for scalable production systems.
 
@@ -56,7 +56,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * **Hardware State Machine:** Built an IR proximity sensor pipeline on the output tray with an RGB LED indicator system (green: idle, blue: printing, yellow: collect pages, red: error) and a progressive buzzer that blocks subsequent jobs until tray clearance is detected, eliminating document mixing in high-volume environments.
 * **Real-Time Analytics & Payments:** Integrated ThingSpeak for live IoT telemetry (revenue, queue length, colour ratio, printer status) updating every 15 seconds across customer and admin dashboards; Razorpay payment gateway with independent server-side receipt verification before any print command is dispatched.
 
-## **VSKript — Enterprise Blogging Platform**
+## **VSKript — Production Blogging Platform**
 
 #### [Live Demo](https://vskript.netlify.app) | Private Repository
 
@@ -71,7 +71,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 
 ---
 
-## **Digital Constitutional Amendment — Civic Tech**
+## **Digital Democracy – AI-Powered Civic Engagement Platform**
 
 #### [Live Link](https://d-05-minor-project.netlify.app/) | Private Repository
 
@@ -119,7 +119,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * **Live Data:** Fetches real-time streak data from GitHub, LeetCode, and GeeksforGeeks APIs on each request for always up-to-date cards.
 * **Customizable:** Multiple color themes and personalization options for developers to match their GitHub profile style.
 * **Embeddable:** Generates ready-to-use Markdown/HTML snippets for GitHub READMEs and personal websites.
-* **Impact:** 100+ cards generated, enabling developers to showcase unified coding activity.
+* **Impact:** 200+ cards generated and served via Vercel Serverless Functions, verified through function invocation logs, enabling developers to showcase unified coding activity.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4b8dadbc-bdf1-42d3-90b2-c0b5d6d50c37" alt="Streak Card Dashboard" width="400"/>
@@ -144,7 +144,6 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 ### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-007BFF?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-007BFF?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-007BFF?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-007BFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
@@ -185,10 +184,11 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-orange?style=flat-square&logo=amazon-aws" alt="AWS in progress" />
 
 **Achievements**
-* **Bronze Medal:** Innovista 2.0 Hackathon (3rd/50+ teams) - National Institute of Engineering, Mysuru (2025)
-* **500+ Day Coding Streak** maintained across GitHub, LeetCode, and GeeksforGeeks
-* **LeetCode Knight** - Peak Rating: 2090
-
+* **2nd Runner-Up:** IoT Project Expo 2026, IIC-AICTE initiative — PrintBridge
+* **Bronze Medal:** Innovista 2.0 (3rd/50+ teams) — Digital Democracy Platform (2025)
+* **500+ Day Coding Streak** across GitHub, LeetCode, and GeeksforGeeks
+* **1000+ Day Chess Streak** on chess.com (Sep 2023 to present)
+* **LeetCode Knight** | Peak Rating: 2102
 ---
 
 ## GitHub Stats
