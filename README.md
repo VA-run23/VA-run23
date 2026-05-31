@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/va-run23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://va-run23.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1BxBMDiVXPZ3bycZSexag3lc5Kx1mfshJ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1eKkx9MG2bo5buwSegNKlfv3n00ckW7eC/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Professional Summary
 
-* **LeetCode Knight** | Peak Rating: 2090 | 450+ Day Coding Streak
+* **LeetCode Knight** | Peak Rating: 2090 | 500+ Day Coding Streak
 * **Bronze Medal** | Innovista 2.0 Hackathon (3rd/50+ teams)
 * **Technical Writer** | Publishing on self-built VSKript platform
 * **Active Maintainer** | 3 production applications with ongoing feature development
@@ -30,7 +30,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 
 * **Performance-Driven Architecture:** Designed APIs with optimized response times through cursor pagination, connection pooling, and strategic caching.
 * **Security by Design:** Implemented defense-in-depth strategies across 3 production applications using JWT, RBAC, rate limiting, and XSS prevention.
-* **Relentless Consistency:** Maintained a 450+ day coding streak while shipping production features—proving that disciplined iteration compounds into mastery.
+* **Relentless Consistency:** Maintained a 500+ day coding streak while shipping production features—proving that disciplined iteration compounds into mastery.
 
 **Current Focus:** Containerization (Docker), AWS cloud architecture, and microservices patterns for scalable production systems.
 
@@ -45,6 +45,16 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 # Featured Engineering Projects
 
 <br/>
+
+## **PrintBridge — IoT Cloud Printing System (PaaS)**
+#### [Live Demo](https://printbridge-by-vps.onrender.com/) | [GitHub](https://github.com/VA-run23/IoT-Project)
+**Role:** IoT Engineer & Full-Stack Developer | 4-Member Team (Team VPS) | *May 2026*
+🏆 *2nd Runner-Up, IoT Project Expo 2026 — IIC, AICTE*
+> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" /> <img src="https://img.shields.io/badge/ThingSpeak-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+* **Hybrid IoT Architecture:** Designed a three-layer system spanning cloud (Render-hosted Node.js, Cloudinary, Razorpay, ThingSpeak), edge (Arduino UNO R4 WiFi polling server every 5 seconds via HTTPS), and local (Node.js printer agent communicating over Serial UART at 115200 baud); implemented mark-before-execute duplicate print prevention to guarantee exactly-once job processing across polling cycles.
+* **Hardware State Machine:** Built an IR proximity sensor pipeline on the output tray with an RGB LED indicator system (green: idle, blue: printing, yellow: collect pages, red: error) and a progressive buzzer that blocks subsequent jobs until tray clearance is detected, eliminating document mixing in high-volume environments.
+* **Real-Time Analytics & Payments:** Integrated ThingSpeak for live IoT telemetry (revenue, queue length, colour ratio, printer status) updating every 15 seconds across customer and admin dashboards; Razorpay payment gateway with independent server-side receipt verification before any print command is dispatched.
 
 ## **VSKript — Enterprise Blogging Platform**
 
@@ -73,20 +83,6 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 * **Database & Concurrency:** Designed normalized schemas with composite indexing and Optimistic Locking to prevent race conditions during high-concurrency voting events.
 * **Security:** Stateless JWT APIs with XSS prevention, centralized error handling, and comprehensive unit testing via Jest.
 
----
-
-## **VOrgans — Organ Donation Management**
-
-#### [Source Code](https://github.com/VA-run23/OrganDonation-DatabaseProject)
-
-**Role:** Backend Developer | 4-Member Team | *Apr 2025 – May 2025*
-
-> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
-
-* **Database-Focused Architecture:** Implemented 15+ stored procedures and triggers, shifting core business logic to the database layer to ensure strict data integrity for donor-recipient matching.
-* **SQL & Dashboard:** Engineered donor-recipient matching via advanced JOINs and subqueries; built multi-criteria filtering dashboard (by organ, blood group, and location).
-* **Real-time Integration:** Developed 15+ RESTful APIs and integrated Socket.IO for critical medical update notifications.
-* **Compliance:** Automated audit logging via MySQL triggers for regulatory compliance.
 
 ---
 
@@ -190,7 +186,7 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 
 **Achievements**
 * **Bronze Medal:** Innovista 2.0 Hackathon (3rd/50+ teams) - National Institute of Engineering, Mysuru (2025)
-* **450+ Day Coding Streak** maintained across GitHub, LeetCode, and GeeksforGeeks
+* **500+ Day Coding Streak** maintained across GitHub, LeetCode, and GeeksforGeeks
 * **LeetCode Knight** - Peak Rating: 2090
 
 ---
@@ -225,9 +221,9 @@ I am a Full-Stack MERN Engineer with a systems-first mindset, driven by architec
 
 <p align="center">
   <b>Open to Full-Stack Development, DevOps & Software Engineering opportunities.</b><br>
-  <a href="https://drive.google.com/file/d/1BxBMDiVXPZ3bycZSexag3lc5Kx1mfshJ/view?usp=sharing" target="_blank"><strong>View Full Resume</strong></a>
+  <a href="https://drive.google.com/file/d/1eKkx9MG2bo5buwSegNKlfv3n00ckW7eC/view?usp=sharing" target="_blank"><strong>View Full Resume</strong></a>
 </p>
 
 <p align="center">
-  <em>Fun Fact: I maintain a 450+ day coding streak because consistency beats intensity in the long run!</em>
+  <em>Fun Fact: I maintain a 500+ day coding streak because consistency beats intensity in the long run!</em>
 </p>
