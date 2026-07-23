@@ -94,7 +94,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=VA-run23&layout=compact&langs_count=8&theme=github_dark&title_color=00bfff&text_color=ffffff" alt="Top Languages" height="200px"/>
+<img src="./metrics.plugin.languages.svg" alt="Top Languages" height="200px"/>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=VA-run23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="220px"/>
