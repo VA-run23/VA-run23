@@ -31,9 +31,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,react,redux,nodejs,express&perline=10" alt="Row 1 Tools" />
+    <!-- Row 1: Core Languages & Project Frameworks -->
+    <img src="https://skillicons.dev/icons?i=js,cpp,py,html,react,redux,nodejs,express,mongodb,arduino&perline=10" alt="Row 1 Tools" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,aws,githubactions,vercel,linux,jest&perline=10" alt="Row 2 Tools" />
+    <!-- Row 2: DevOps, Cloud, Testing & Deployment -->
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jest,linux,npm,vercel,netlify,svg&perline=10" alt="Row 2 Tools" />
   </a>
 </p>
 
