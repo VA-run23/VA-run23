@@ -20,7 +20,7 @@
 ### 🏆 Top Achievements & Stats
 
 - **LeetCode:** Knight (Peak Rating: 2102)
-- **Coding Streak:** 550+ Days across GitHub, LeetCode, and GeeksforGeeks
+- **Coding Streak:** 600+ Days across GitHub, LeetCode, and GeeksforGeeks
 - **Chess Streak:** 1050+ Days on chess.com
 - **IoT Project Expo 2026 (IIC-AICTE):** 2nd Runner-Up for PrintBridge
 - **Innovista 2.0:** Bronze Medal (3rd out of 50+ teams)
@@ -123,5 +123,5 @@
 </p>
 
 <p align="center">
-  <em>Fun Fact: I maintain a 550+ day coding streak because consistency beats intensity in the long run!</em>
+  <em>Fun Fact: I maintain a 600+ day coding streak because consistency beats intensity in the long run!</em>
 </p>
